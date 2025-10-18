@@ -1,4 +1,4 @@
-<h1 align="center">👀 I’m Aisha Saleem</h1>
+# 👀 I’m [Your Name]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=460&lines=MERN+Stack+Developer;Learning+FastAPI+and+AI;Turning+Ideas+into+Code+✨" alt="Typing Animation" />
@@ -31,17 +31,17 @@
 
 ### ⚙️ GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishasaleem&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishasaleem&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[yourusername]&theme=radical" height="150" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:aishasaleem@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://linkedin.com/in/aishasaleem"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://github.com/aishasaleem"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="mailto:[your.email@example.com]"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/[yourlinkedin]"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://github.com/[yourusername]"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
