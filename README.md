@@ -1,45 +1,47 @@
-<h1 align="center">✨ Aisha Saleem — Logic. Poetry. Performance.</h1>
+<h1 align="center">✨ Aisha Saleem — Full Stack Engineer | MERN Specialist</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFBE93&center=true&vCenter=true&width=460&lines=MERN+Stack+Architect;Performance+Driven+Backend;Building+Digital+Momentum;Curiosity+Fueled+My+Code+💭" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFBE93&center=true&vCenter=true&width=460&lines=Building+Scalable+Backend+Systems;Focused+on+API+Performance;Driving+Project+Momentum;Delivering+Tested%2C+Clean+Code" alt="Typing animation" />
 </p>
 
 ---
 
-### 🪶 The Story  
-Hi, I’m **Aisha**, a developer who writes **logic like poetry** and designs backend like it’s strategy. My journey started with raw HTML curiosity and has evolved into building robust systems with the **MERN stack** (**Node.js**, **Express**, **MongoDB**). Now, I'm integrating **AI/ML** concepts to make code smarter. I don’t just make projects; I build **digital momentum**.
+### 💼 Professional Overview  
+Hello, I’m **Aisha**, a dedicated Full Stack Engineer specializing in the **MERN stack**. I transform complex requirements into efficient, maintainable, and highly performant web applications. My expertise lies in designing robust **Node.js/Express APIs** and optimizing **MongoDB** data models to ensure stability and speed under pressure.
+
+I don’t just deliver code; I build **architectures that scale**.
 
 ---
 
-### ⚡ Current Mode & Goals
-🧠 Deepening expertise in **FastAPI** (Python) for blazing-fast APIs & diving into **AI/ML** integration.
-📱 Laying the groundwork for **mobile app dev** with React Native & hybrid frameworks.
-💬 Current state: **Coding, Caffeinating, Conquering.**
+### ⚡ Current Focus & Development Goals
+- **Backend Depth:** Deepening expertise in **FastAPI** (Python) for microservices and asynchronous API development.
+- **System Design:** Studying advanced **cloud infrastructure** patterns (AWS/Azure) to manage and deploy resilient applications.
+- **Mobile Reach:** Expanding into **React Native** to deliver cohesive experiences across web and mobile platforms.
 
 ---
 
-### 🧩 Tech Arsenal  
+### 🧩 Core Technical Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,python,fastapi,git,postman,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Backend Project
-Dive into my most recent creation, **SynapseAPI**—a high-performance, token-based API built with **Node.js, Express, and MongoDB**. This project focuses on secure authentication, efficient routing, and database performance optimization.
+### 🚀 Featured Project: [Project Name]
+**[Project Name]** is a high-performance, real-time platform built entirely with **Node.js, Express, and Socket.io**. It features secure OAuth 2.0 authentication, comprehensive unit testing, and a highly optimized REST API designed for high-volume traffic.
 
-➡️ [**Check out the SynapseAPI Repo**](https://github.com/aishasaleem/synapse-api-repo) *(Link to your best backend project)*
-
----
-
-### 🔥 What I Love Building  
-- **Scalable APIs** that respond like clockwork and handle high traffic.  
-- UIs that *breathe* instead of flash (leveraging modern React state management).  
-- **Resilient Systems** that stay calm even under pressure, using best-practice error handling.  
+* [**View Repository**](https://github.com/aishasaleem/featured-repo) | [**Live Application**](https://your-project.live) *(Replace with your best project)*
 
 ---
 
-### ⚙️ Stats that Speak
+### 📈 Commitment to Quality  
+- **API Performance:** Building secure, well-documented, and efficient RESTful APIs that consistently exceed latency targets.
+- **Architecture:** Designing scalable database schemas and modular codebases for long-term project viability.
+- **User Experience:** Developing responsive, accessible, and intuitive user interfaces with modern React practices.  
+
+---
+
+### ⚙️ GitHub Activity Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishasaleem&show_icons=true&theme=omni&hide_border=true&hide=contribs" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishasaleem&theme=omni&hide_border=true" height="150"/>
@@ -47,7 +49,7 @@ Dive into my most recent creation, **SynapseAPI**—a high-performance, token-ba
 
 ---
 
-### 🌍 Connect | Collaborate | Create  
+### 🌍 Let's Connect | Collaborate | Create  
 <p align="center">
   <a href="mailto:aishasaleem@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://linkedin.com/in/aishasaleem"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
@@ -56,6 +58,3 @@ Dive into my most recent creation, **SynapseAPI**—a high-performance, token-ba
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFBE93&height=90&section=footer&text=Aisha+Saleem&fontColor=2d2d2d&fontAlignY=50&fontSize=20" />
-</p>
