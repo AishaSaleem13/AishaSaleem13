@@ -1,60 +1,49 @@
-<h1 align="center">✨ Aisha Saleem — Full Stack Engineer | MERN Specialist</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3f/6b/9e/3f6b9eb9b6cbf9cfb2488dd6a028e3b4.jpg" width="300px" alt="anime dev girl"/>
+</p>
+
+<h2 align="center">hi, i'm aisha ✦</h2>
+
+<p align="center">welcome to my github profile ♡</p>
+
+---
+
+### 💬 about me
+i’m a full-stack learner who builds with **logic, color and patience**.  
+currently working with **Node.js, Express, MongoDB, and React**.  
+i love writing backend that *feels clean and human*, and frontends that *breathe calmly*.  
+
+> curiosity made me start coding — discipline keeps me going.
+
+---
+
+### ⚙️ toolset
+`JavaScript` · `Node.js` · `Express` · `MongoDB` · `React`  
+`Tailwind` · `Postman` · `Git` · `VS Code`
+
+---
+
+### 💻 work in progress
+- building backend systems that actually make sense  
+- learning to design API logic like poetry  
+- sometimes experimenting with ui flow in react  
+
+---
+
+### 🌸 contact
+`📧` **aishasaleem1308@gmail.com**  
+
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFBE93&center=true&vCenter=true&width=460&lines=Building+Scalable+Backend+Systems;Focused+on+API+Performance;Driving+Project+Momentum;Delivering+Tested%2C+Clean+Code" alt="Typing animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aishasaleem&show_icons=true&theme=buefy&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishasaleem&theme=buefy&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 💼 Professional Overview  
-Hello, I’m **Aisha**, a dedicated Full Stack Engineer specializing in the **MERN stack**. I transform complex requirements into efficient, maintainable, and highly performant web applications. My expertise lies in designing robust **Node.js/Express APIs** and optimizing **MongoDB** data models to ensure stability and speed under pressure.
-
-I don’t just deliver code; I build **architectures that scale**.
-
----
-
-### ⚡ Current Focus & Development Goals
-- **Backend Depth:** Deepening expertise in **FastAPI** (Python) for microservices and asynchronous API development.
-- **System Design:** Studying advanced **cloud infrastructure** patterns (AWS/Azure) to manage and deploy resilient applications.
-- **Mobile Reach:** Expanding into **React Native** to deliver cohesive experiences across web and mobile platforms.
-
----
-
-### 🧩 Core Technical Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,python,fastapi,git,postman,vscode" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=100&section=footer"/>
 </p>
-
----
-
-### 🚀 Featured Project: [Project Name]
-**[Project Name]** is a high-performance, real-time platform built entirely with **Node.js, Express, and Socket.io**. It features secure OAuth 2.0 authentication, comprehensive unit testing, and a highly optimized REST API designed for high-volume traffic.
-
-* [**View Repository**](https://github.com/aishasaleem/featured-repo) | [**Live Application**](https://your-project.live) *(Replace with your best project)*
-
----
-
-### 📈 Commitment to Quality  
-- **API Performance:** Building secure, well-documented, and efficient RESTful APIs that consistently exceed latency targets.
-- **Architecture:** Designing scalable database schemas and modular codebases for long-term project viability.
-- **User Experience:** Developing responsive, accessible, and intuitive user interfaces with modern React practices.  
-
----
-
-### ⚙️ GitHub Activity Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishasaleem&show_icons=true&theme=omni&hide_border=true&hide=contribs" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishasaleem&theme=omni&hide_border=true" height="150"/>
-</p>
-
----
-
-### 🌍 Let's Connect | Collaborate | Create  
-<p align="center">
-  <a href="mailto:aishasaleem@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://linkedin.com/in/aishasaleem"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://github.com/aishasaleem"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-</p>
-
----
 
