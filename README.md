@@ -1,57 +1,54 @@
+<!-- Banner / Anime header -->
 <p align="center">
-  <img src="https://media.craiyon.com/2025-04-17/vH7ZJAFwR7SlTj61fWcoyQ.webp" width="400" alt="anime coder"/>
+  <img src="https://media.craiyon.com/2025-04-17/vH7ZJAFwR7SlTj61fWcoyQ.webp" width="400" alt="Aisha anime banner" />
 </p>
 
-<h2 align="center">✦ aisha saleem ✦</h2>
+<h1 align="center">Hey 👋, I'm Aisha Saleem</h1>
+<h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
 
-<p align="center">
-  backend architect in progress · frontend when it matters  
-  <br/>building logic, clarity, and calm into code
+---
+
+### 🛠️ About Me
+- 🌱 Currently exploring **Backend Engineering (Node.js + Express + MongoDB)**
+- 💻 Also enjoy crafting clean **Frontend interfaces (React + Tailwind CSS)**
+- 🚀 Building projects that connect creativity with logic  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, or Tailwind**
+- 🎯 Goal: Build impactful apps that *actually solve problems*
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="mailto:aishasaleem.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
+  <a href="https://github.com/aishasaleem" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/aishasaleem" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40"/></a>
 </p>
 
 ---
 
-### 🧭 about me  
-i started with pure curiosity — why code works the way it does.  
-now i focus on **backend development**, designing **api systems**, and connecting logic with purpose.  
-but i still craft frontends that speak softly — minimal, fast, and focused.  
-
-> clean code. steady flow. no noise.
-
----
-
-### ⚙️ current stack  
-**backend**  
-`Node.js` · `Express.js` · `MongoDB` · `REST APIs` · `JWT` · `Mongoose`
-
-**frontend**  
-`React.js` · `Tailwind CSS` · `HTML5` · `CSS3`  
-
-**tools**  
-`Git` · `GitHub` · `Postman` · `VS Code` · `Vercel`
-
----
-
-### 🧩 work in progress  
-- designing modular backend architectures  
-- writing better error handling and middleware  
-- optimizing API response times  
-- integrating clean frontend workflows into backend logic  
-
----
-
-
-
-
-
----
-
-### 🌐 connect  
-📧 **aishasaleem1308@gmail.com**  
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFBE93&height=90&section=footer&text=Code+flows+quietly.&fontColor=2d2d2d&fontAlignY=50&fontSize=20" />
+### 🧠 Languages & Tools  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/office/48/react.png" title="React"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/figma.png" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/>
 </p>
+
+---
+
+
+
+
+---
+
+### 🌸 Fun Fact  
+> Sometimes, clean code is just poetry written in logic.
